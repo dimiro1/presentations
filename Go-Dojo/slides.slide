@@ -1,0 +1,65 @@
+Dojo Day GuiaBolso
+Go
+
+07 Outubro de 2016
+
+Claudemiro
+Software Developer, Guiabolso
+
+dimiro1@gmail.com
+claudemiro@guiabolso.com.br
+http://www.guiabolso.com.br/
+https://github.com/dimiro1
+
+* Disclaimer
+
+	package main
+
+	import "fmt"
+
+	func main() {
+		fmt.Println("Bem vindos!")
+		fmt.Println("Não tem chocolate Grátis!")
+		fmt.Println("Não veremos mágicas funcionais!")
+		fmt.Println("Seremos imperadores!")
+	}
+
+Para os que ficarem, aproveitem, vai ser bem divertido.
+
+* Algumas perguntas
+
+- O que motivou você a vir fazer este Dojo?
+- O que você espera deste Dojo?
+- O que você espera deste da linguagem?
+
+* Onde o GuiaBolso usa Go?
+
+- Z80
+- Parker
+
+* Projetos opensource no GuiaBolso
+
+- [[https://github.com/GuiaBolso/darwin][darwin]]: equivalente ao [[https://flywaydb.org]].
+- [[https://github.com/dimiro1/health][health]]: os devops pira neste health check.
+- [[https://github.com/dimiro1/banner][banner]]: Facilita adicionar lindos banners a suas apelicações. 
+- [[https://github.com/dimiro1/experiments]]: Vários experimentos bem úteis
+- [[https://github.com/dimiro1/flatmap][flatmap]]: Faz flatten de qualuer map em Go
+- [[https://github.com/dimiro1/faker][faker]] Dados ficticios
+
+* O Dojo
+
+Vamos resolver alguns problemas no [[http://cyber-dojo.org]]
+
+- FizzBuzz - Fizz=Guia, Buzz=Bolso, FizzBuzz=GuiaBolso
+- LeapYears
+- CalcStats
+- Balanced Parenthenses
+- GrayCode
+- ISBN
+- Reverse Roman
+
+* Links úteis
+
+- https://golang.org/
+- https://golang.org/pkg/
+- https://golang.org/help/
